@@ -1,0 +1,24 @@
+{
+  "name": "versioning",
+  "version": "0.0.0",
+  "description": "the simple repo for versioning ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladganjali/versioning.git"
+  },
+  "author": "Milad GanjAli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miladganjali/versioning/issues"
+  },
+  "homepage": "https://github.com/miladganjali/versioning#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.7",
+    "semantic-release": "^20.1.0"
+  }
+}
